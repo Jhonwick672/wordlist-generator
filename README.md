@@ -101,7 +101,7 @@ Output:
 
 
 ***** Development Setup
-git clone https://github.com/yourusername/wordlist-generator.git
+git clone https://github.com/Jhonwick672/wordlist-generator
 cd wordlist-generator
 # Make your changes
 python wordlist_gen.py  # Test your changes
